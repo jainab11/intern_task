@@ -1,0 +1,303 @@
+@font-face {
+  font-family: jlr_emeric_semibold;
+  font-style: normal;
+  font-weight: 400;
+  src: url(../../dist/fonts/jlremeric-semibold-webfont.eot),url(../../dist/fonts/jlremeric-semibold-webfont.woff2) format("woff2"),url(../../dist/fonts/jlremeric-semibold-webfont.woff) format("woff"),url(../../dist/fonts/jlremeric-semibold-webfont.ttf) format("truetype")
+}
+
+@font-face {
+  font-family: JLREmeric-Regular;
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/JLREmeric-Regular.ttf) format("truetype")
+}
+
+@font-face {
+  font-family: jlr_emeric_extralight;
+  font-style: normal;
+  font-weight: lightest;
+  src: url(../../dist/fonts/jlremeric-extralight-webfont.eot);
+  src: url(../../dist/fonts/jlremeric-extralight-webfont.eot?#iefix) format("embedded-opentype"),url(../../dist/fonts/jlremeric-extralight-webfont.woff2) format("woff2"),url(../../dist/fonts/jlremeric-extralight-webfont.woff) format("woff"),url(../../dist/fonts/jlremeric-extralight-webfont.ttf) format("truetype"),url(../../dist/fonts/jlremeric-extralight-webfont.svg#jlr_emeric_extralight) format("svg")
+}
+
+@font-face {
+  font-family: jlr-icons;
+  font-style: normal;
+  font-weight: 400;
+  src: url(../../dist/fonts/jlr-icons.ttf) format("truetype")
+}
+
+.fixed-position {
+  position: fixed
+}
+
+.font-light {
+  font-family: jlr_emeric_extralight,sans-serif;
+}
+
+* {
+  margin: 0
+}
+
+*,body {
+  padding: 0
+}
+/* p, li, a, h5, h6 {
+  font-size: 14px !important;
+} */
+body {
+  font-family: jlr_emeric_extralight, sans-serif;
+}
+span.brand-text.fw-light {
+  font-family: JLREmeric-Regular, sans-serif;
+}
+body {
+  -webkit-font-smoothing: auto;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-tap-highlight-color: rgba(151,149,149,.2);
+  -webkit-font-smoothing: antialiased;
+  color: #202020;
+  overflow: auto;
+  font-family: jlr_emeric_extralight,sans-serif;
+}
+
+body,h1,h2,h3,h4 {
+  font-family: JLREmeric-Regular,sans-serif
+}
+
+ol,p,ul {
+  font-family: jlr_emeric_extralight,sans-serif;
+  /* font-size: 16px; */
+  line-height: 1.5
+}
+
+li {
+  /* padding-bottom: 15px */
+}
+
+form {
+  width: 100%
+}
+
+.accordion {
+  color: #202020;
+  flex: 1 1 auto
+}
+
+.accordion__item {
+  position: relative
+}
+
+.accordion__item:not(:first-of-type) .accordion__title {
+  padding-top: 23px
+}
+
+.accordion__item:not(:last-of-type):after {
+  background-color: #aab5c3;
+  bottom: 0;
+  content: "";
+  height: 1px;
+  left: 0;
+  position: absolute;
+  right: 0;
+  width: 100%
+}
+
+.accordion__title {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  font-family: jlr_emeric_extralight,sans-serif;
+  /* font-size: 18px;
+  padding-bottom: 23px; */
+  text-transform: uppercase
+}
+
+.accordion__title-arrow {
+  background-image: url(../images/icons/cta-arrow-down.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 19px;
+  margin-left: auto;
+  width: 19px
+}
+
+.accordion__title.active .accordion__title-arrow {
+  background-image: url(../images/icons/cta-arrow-up.svg)
+}
+
+.accordion__description {
+  font-family: jlr_emeric_extralight,sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  opacity: 0;
+  padding-bottom: 32px
+}
+
+.btn {
+  align-items: center;
+  border: none;
+  border-radius: 0;
+  cursor: pointer;
+  display: flex;
+  font-size: 14px;
+  outline: none;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: all .25s linear;
+  transition: all .15s ease-out
+}
+
+.btn:active,.btn:hover,.btn:visited {
+  font-weight: inherit
+}
+
+.btn:focus {
+  font-weight: 700
+}
+
+.btn--primary {
+  border: 1px solid;
+  font-family: JLREmeric-Regular,sans-serif;
+  max-width: -moz-fit-content;
+  max-width: fit-content;
+  padding: 16px 33px
+}
+
+.btn--primary:active,.btn--primary:hover {
+  background-color: #000;
+  color: #fff
+}
+
+.btn--primary:active i,.btn--primary:hover i {
+  filter: invert(1)
+}
+
+.btn--primary-light:active,.btn--primary-light:hover {
+  background-color: #fff;
+  color: #202020
+}
+
+.btn--primary-light:active i,.btn--primary-light:hover i {
+  filter: invert(1)
+}
+
+.btn--primary-alt i {
+  transition: all .15s ease-out
+}
+
+.btn--primary-alt:active,.btn--primary-alt:hover {
+  backdrop-filter: blur(30px);
+  -webkit-backdrop-filter: blur(30px);
+  background-color: rgba(0,0,0,.1)
+}
+
+.btn--primary-alt:active i,.btn--primary-alt:hover i {
+  transform: translateX(13px)
+}
+
+.btn--secondary {
+  font-family: JLREmeric-Regular,sans-serif;
+  font-size: 16px;
+  width: -moz-fit-content;
+  width: fit-content
+}
+
+.btn--secondary i {
+  transition: all .15s ease-out
+}
+
+.btn--secondary:active i,.btn--secondary:hover i {
+  transform: translateX(13px)
+}
+
+.btn--secondary-underlined {
+  border-bottom: 1px solid;
+  color: #1e1e1e;
+  text-transform: none
+}
+
+.btn--secondary-underlined:active,.btn--secondary-underlined:hover {
+  color: #000
+}
+
+.btn--secondary-underlined:active i,.btn--secondary-underlined:hover i {
+  filter: none
+}
+
+.btn--tertiary {
+  border: 1px solid #202020;
+  color: #202020;
+  font-family: JLREmeric-Regular,sans-serif;
+  letter-spacing: 2.6px;
+  line-height: 1;
+  padding: 15px 12.5px;
+  width: -moz-fit-content;
+  width: fit-content
+}
+
+.btn--tertiary:active,.btn--tertiary:hover {
+  background-color: #202020;
+  color: #fff
+}
+
+.btn--tertiary:active i,.btn--tertiary:active span,.btn--tertiary:hover i,.btn--tertiary:hover span {
+  transform: translateX(-18px)
+}
+
+.btn--social {
+  padding: 0 8px
+}
+
+.btn--social:active,.btn--social:hover {
+  background-color: rgba(0,0,0,.2)
+}
+
+.btn--news {
+  font-family: jlr_emeric_semibold,sans-serif;
+  font-size: 18px;
+  margin-bottom: 20px;
+  width: -moz-fit-content;
+  width: fit-content
+}
+
+.btn--news i {
+  transition: all .15s ease-out
+}
+
+.btn--news:active i,.btn--news:hover i {
+  transform: translateX(13px)
+}
+
+.btn--margintop {
+  margin: 24px 0 4px
+}
+
+.btn--marginauto {
+  margin: 24px auto
+}
+
+.btn--font-16 {
+  font-size: 16px
+}
+
+.btn--narrow {
+  line-height: 1
+}
+
+.btn__icon {
+  background-image: url(../images/icons/chevron-black.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: inline-block;
+  height: auto;
+  height: 18px;
+  margin-left: 8px;
+  transition: all .15s ease-out;
+  width: 18px
+}
+
+.btn__icon--small {
+  height: 11px;
+  width: 10px
+}

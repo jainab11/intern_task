@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|c:\\users\\ramkrishna\\source\\repos\\newsletter\\template.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|solutionrelative:template.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|c:\\users\\ramkrishna\\source\\repos\\newsletter\\template.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|solutionrelative:template.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|c:\\users\\ramkrishna\\source\\repos\\newsletter\\templatelist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|solutionrelative:templatelist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|c:\\users\\ramkrishna\\source\\repos\\newsletter\\templatelist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|solutionrelative:templatelist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|c:\\users\\ramkrishna\\source\\repos\\newsletter\\addemp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|solutionrelative:addemp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|c:\\users\\ramkrishna\\source\\repos\\newsletter\\emplist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|solutionrelative:emplist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|c:\\users\\ramkrishna\\source\\repos\\newsletter\\addemp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|solutionrelative:addemp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|c:\\users\\ramkrishna\\source\\repos\\newsletter\\registration page.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|solutionrelative:registration page.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|c:\\users\\ramkrishna\\source\\repos\\newsletter\\emplist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|solutionrelative:emplist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|c:\\users\\ramkrishna\\source\\repos\\newsletter\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|c:\\users\\ramkrishna\\source\\repos\\newsletter\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|c:\\users\\ramkrishna\\source\\repos\\newsletter\\registration page.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|solutionrelative:registration page.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|c:\\users\\ramkrishna\\source\\repos\\newsletter\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|solutionrelative:dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|c:\\users\\ramkrishna\\source\\repos\\newsletter\\resetpassword.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|solutionrelative:resetpassword.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|c:\\users\\ramkrishna\\source\\repos\\newsletter\\forgotpassword.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|solutionrelative:forgotpassword.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|c:\\users\\ramkrishna\\source\\repos\\newsletter\\forgotpassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|solutionrelative:forgotpassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|c:\\users\\ramkrishna\\source\\repos\\newsletter\\resetpassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3106E773-F7E3-4D95-8589-64A510617413}|Newsletter.csproj|solutionrelative:resetpassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 388,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "emplist.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\emplist.aspx.cs",
+              "RelativeDocumentMoniker": "emplist.aspx.cs",
+              "ToolTip": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\emplist.aspx.cs",
+              "RelativeToolTip": "emplist.aspx.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAmwIAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:35:00.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddEmp.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\AddEmp.aspx.cs",
+              "RelativeDocumentMoniker": "AddEmp.aspx.cs",
+              "ToolTip": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\AddEmp.aspx.cs",
+              "RelativeToolTip": "AddEmp.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:30:19.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEmp.aspx",
+              "DocumentMoniker": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\AddEmp.aspx",
+              "RelativeDocumentMoniker": "AddEmp.aspx",
+              "ToolTip": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\AddEmp.aspx",
+              "RelativeToolTip": "AddEmp.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-11T09:30:00.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Registration page.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\Registration page.aspx.cs",
+              "RelativeDocumentMoniker": "Registration page.aspx.cs",
+              "ToolTip": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\Registration page.aspx.cs",
+              "RelativeToolTip": "Registration page.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:11:27.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Template.aspx",
+              "DocumentMoniker": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\Template.aspx",
+              "RelativeDocumentMoniker": "Template.aspx",
+              "ToolTip": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\Template.aspx",
+              "RelativeToolTip": "Template.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-11T05:29:56.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Templatelist.aspx",
+              "DocumentMoniker": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\Templatelist.aspx",
+              "RelativeDocumentMoniker": "Templatelist.aspx",
+              "ToolTip": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\Templatelist.aspx",
+              "RelativeToolTip": "Templatelist.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-11T06:22:34.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Template.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\Template.aspx.cs",
+              "RelativeDocumentMoniker": "Template.aspx.cs",
+              "ToolTip": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\Template.aspx.cs*",
+              "RelativeToolTip": "Template.aspx.cs*",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAgwKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:36:09.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Templatelist.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\Templatelist.aspx.cs",
+              "RelativeDocumentMoniker": "Templatelist.aspx.cs",
+              "ToolTip": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\Templatelist.aspx.cs",
+              "RelativeToolTip": "Templatelist.aspx.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAxwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:38:57.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Login.aspx.cs",
+              "ToolTip": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\Login.aspx.cs",
+              "RelativeToolTip": "Login.aspx.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAQwHQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:30:50.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "emplist.aspx",
+              "DocumentMoniker": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\emplist.aspx",
+              "RelativeDocumentMoniker": "emplist.aspx",
+              "ToolTip": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\emplist.aspx",
+              "RelativeToolTip": "emplist.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-11T09:34:25.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Registration page.aspx",
+              "DocumentMoniker": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\Registration page.aspx",
+              "RelativeDocumentMoniker": "Registration page.aspx",
+              "ToolTip": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\Registration page.aspx",
+              "RelativeToolTip": "Registration page.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-11T04:06:56.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\Login.aspx",
+              "RelativeDocumentMoniker": "Login.aspx",
+              "ToolTip": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\Login.aspx",
+              "RelativeToolTip": "Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-11T04:24:49.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "Dashboard.aspx",
+              "ToolTip": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\Dashboard.aspx",
+              "RelativeToolTip": "Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-11T04:37:52.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ForgotPassword.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\ForgotPassword.aspx.cs",
+              "RelativeDocumentMoniker": "ForgotPassword.aspx.cs",
+              "ToolTip": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\ForgotPassword.aspx.cs",
+              "RelativeToolTip": "ForgotPassword.aspx.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwDIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:45:11.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Resetpassword.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\Resetpassword.aspx.cs",
+              "RelativeDocumentMoniker": "Resetpassword.aspx.cs",
+              "ToolTip": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\Resetpassword.aspx.cs",
+              "RelativeToolTip": "Resetpassword.aspx.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:52:34.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Resetpassword.aspx",
+              "DocumentMoniker": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\Resetpassword.aspx",
+              "RelativeDocumentMoniker": "Resetpassword.aspx",
+              "ToolTip": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\Resetpassword.aspx",
+              "RelativeToolTip": "Resetpassword.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-11T04:50:36.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ForgotPassword.aspx",
+              "DocumentMoniker": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\ForgotPassword.aspx",
+              "RelativeDocumentMoniker": "ForgotPassword.aspx",
+              "ToolTip": "C:\\Users\\RAMKRISHNA\\source\\repos\\Newsletter\\ForgotPassword.aspx",
+              "RelativeToolTip": "ForgotPassword.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-11T04:37:40.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 12,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

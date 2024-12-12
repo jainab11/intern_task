@@ -1,0 +1,44 @@
+@font-face {
+  font-family: jlr-media-site-new;
+  src: url(../fonts/jlr-media-site-new.eot);
+  src: url(../fonts/jlr-media-site-new.eot?#iefix) format("embedded-opentype"), url(../fonts/jlr-media-site-new.woff) format("woff"), url(../fonts/jlr-media-site-new.ttf) format("truetype"), url(../fonts/jlr-media-site-new.svg#jlr-media-site-new) format("svg");
+  font-weight: 400;
+  font-style: normal
+}
+@font-face {
+  font-family: proxima_nova_regular;
+  src: url(../fonts/proximanova-regular-webfont.eot);
+  src: url(../fonts/proximanova-regular-webfont.eot?#iefix) format("embedded-opentype"), url(../fonts/proximanova-regular-webfont.woff2) format("woff2"), url(../fonts/proximanova-regular-webfont.woff) format("woff"), url(../fonts/proximanova-regular-webfont.ttf) format("truetype"), url(../fonts/proximanova-regular-webfont.svg#proxima_nova_regular) format("svg");
+  font-weight: 400;
+  font-style: normal
+}
+@font-face {
+  font-family: jlr_emeric_semibold;
+  src: url(../fonts/jlremeric-semibold-webfont.eot);
+  src: url(../fonts/jlremeric-semibold-webfont.eot?#iefix) format("embedded-opentype"), url(../fonts/jlremeric-semibold-webfont.woff2) format("woff2"), url(../fonts/jlremeric-semibold-webfont.woff) format("woff"), url(../fonts/jlremeric-semibold-webfont.ttf) format("truetype"), url(../fonts/jlremeric-semibold-webfont.svg#jlr_emeric_semibold) format("svg");
+  font-weight: 400;
+  font-style: normal
+}
+@font-face {
+  font-family: jlr_emeric_extralight;
+  src: url(../fonts/jlremeric-extralight-webfont.eot);
+  src: url(../fonts/jlremeric-extralight-webfont.eot?#iefix) format("embedded-opentype"), url(../fonts/jlremeric-extralight-webfont.woff2) format("woff2"), url(../fonts/jlremeric-extralight-webfont.woff) format("woff"), url(../fonts/jlremeric-extralight-webfont.ttf) format("truetype"), url(../fonts/jlremeric-extralight-webfont.svg#jlr_emeric_extralight) format("svg");
+  font-weight: 400;
+  font-style: normal
+}
+.nav li a, body, p {
+  font-family: jlr_emeric_extralight, sans-serif !important;
+}
+body, h1, h2, h3, h4 {
+  font-family: JLREmeric-Regular, sans-serif;
+}
+body, p {
+  color: #878787;
+  font-size: 16px
+}
+a {
+  color: #1e1e1e
+}
+a:hover {
+  background: #e8e8e8
+}
